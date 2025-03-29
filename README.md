@@ -9,7 +9,7 @@ I'm currently on a job search, so my CV (<a href="https://drive.google.com/file/
 <p align="left">I'm Unity developer with experience in Virtual Reality, Android and Desktop games. Currently I'm working on my own projects to improve my programming and game development skills. I also take part in Game Jams from time to time</p>
 
 - 📫 **Contacts:** Telegram <a href="https://t.me/jelewow">@jelewow</a>; LinkedIn: <a href="https://www.linkedin.com/in/kirill-popov-gamedev//">in/kirill-popov</a>; Gmail: kirillpopov.gamedev@gmail.com.
-- ⚡ **Skills:** Unity, C#, VR, Zenject, UniTask, ECS(LeoECS)
+- ⚡ **Skills:** Unity, C#, VR, Zenject, UniTask, Rx, ECS(LeoECS)
 - 🔭 **Other:** <a href="https://jelewow.itch.io/">itch.io</a>
 <!--
 <!--
