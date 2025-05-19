@@ -1,6 +1,6 @@
 <h1 align="center">Hello, My name is Kirill, I'm Unity Developer</h1>
 
-**I'm currently on a job search, so my CV (<a href="https://drive.google.com/file/d/1lgbdvHjT1pJg362M4SHYuXIH0kgBp_56/view?usp=sharing">![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "eng")</a>/<a **href="https://drive.google.com/file/d/1cxlnxyN9rDeBFB-dP0rEF5xYKL4iDF2t/view?usp=sharing">![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "ru")</a>)
+<!--I'm currently on a job search, so my CV (<a href="https://drive.google.com/file/d/1lgbdvHjT1pJg362M4SHYuXIH0kgBp_56/view?usp=sharing">![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "eng")</a>/<a href="https://drive.google.com/file/d/1cxlnxyN9rDeBFB-dP0rEF5xYKL4iDF2t/view?usp=sharing">![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "ru")</a>)-->
 
 <h3 align="left">👩‍💻  About me</h3>
 
