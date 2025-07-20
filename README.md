@@ -6,10 +6,10 @@
 
 ###
 
-<p align="left">I'm Unity developer with experience in Virtual Reality, Android and Desktop games. Currently I'm working on my own projects to improve my programming and game development skills. I also take part in Game Jams from time to time</p>
+<p align="left">I'm Unity developer with experience in Mobile (Android / IOS) and Desktop games. Currently I'm working on my own projects to improve my programming and game development skills. I also take part in Game Jams from time to time</p>
 
 - 📫 **Contacts:** Telegram <a href="https://t.me/jelewow">@jelewow</a>; LinkedIn: <a href="https://www.linkedin.com/in/kirill-popov-gamedev//">in/kirill-popov</a>; Gmail: kirillpopov.gamedev@gmail.com.
-- ⚡ **Skills:** Unity, C#, VR (OpenXR/Meta SDK/Pico SDK), Zenject, VContainer, UniTask, Rx (UniRx, R3), ECS (LeoECS)
+- ⚡ **Skills:** Unity, C#, DI (Zenject, VContainer), UniTask, Rx (UniRx, R3), ECS (LeoECS, LeoECS Lite, MorpehECS), VR (OpenXR/Meta SDK/Pico SDK)
 - 🔭 **Other:** <a href="https://jelewow.itch.io/">itch.io</a>
 <!--
 <!--
